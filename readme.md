@@ -1,9 +1,4 @@
-# Vector search in Python (Azure AI Search)
-
-This repository contains notebooks to explore multimodal features of LLM models.                                                                                                                                                                                                                                                                 |
-| [multimodal](./code/multimodal/azure-search-vector-image-index-creation-python-sample.ipynb)                                              | Vectorize images using [Azure AI Vision multimodal embedding](https://learn.microsoft.com/azure/ai-services/computer-vision/how-to/image-retrieval). In contrast with the multimodal-custom-skill example, this notebook uses the push API (no indexers or skillsets) for indexing. It calls the embedding model directly for a pure image vector search.                                                  |
-| [multimodal-custom-skill](./code/multimodal-custom-skill/azure-search-vector-image-python-sample.ipynb)                                   | End-to-end text-to-image sample that creates and calls a custom embedding model using a custom skill. Includes source code for an Azure function that calls the [Azure AI Vision Image Retrieval REST API](https://learn.microsoft.com/rest/api/computervision/image-retrieval) for text-to-image vectorization. Includes an azure-search-vector-image notebook for all steps, from deployment to queries. |
-                                                                                                                                                                                                                                                                    |
+              |
 
 ## Prerequisites
 
