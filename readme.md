@@ -1,5 +1,3 @@
-              |
-
 ## Prerequisites
 
 To run the Python samples in this folder, you should have:
