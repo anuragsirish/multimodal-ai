@@ -3,14 +3,14 @@
 ### What is Multimodal AI?
 Multimodal AI refers to AI applications that can understand, interpret, and process information from multiple different modes or types of data. These modes can include text, images, audio, video data The ability to work with such diverse data types allows multimodal AI systems to perform more complex and nuanced tasks than unimodal systems, which are limited to a single type of data.
 
-<img src="image.jpg" width="500" height="300">
 <img src="https://github.com/anuragsirish/multimodal-ai/assets/12818726/c59ea33e-5c3f-495f-92df-10026e576004" width="500" height="300">
 
 
-## Recent Multomodal LLMs
+## Multimodal LMMs
 
+GPT-4 Turbo with Vision is a large multimodal model (LMM) developed by OpenAI that can analyze images and provide textual responses to questions about them. It incorporates both natural language processing and visual understanding. This guide provides details on the capabilities and limitations of GPT-4 Turbo with Vision.
 
-
+https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/gpt-with-vision
 
 
 
