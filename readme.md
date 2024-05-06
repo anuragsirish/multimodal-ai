@@ -6,7 +6,7 @@ Multimodal AI refers to AI applications that can understand, interpret, and proc
 <img src="https://github.com/anuragsirish/multimodal-ai/assets/12818726/c59ea33e-5c3f-495f-92df-10026e576004" width="500" height="300">
 
 
-## Multimodal LMMs
+## GPT-4 Turbo with Vision
 
 GPT-4 Turbo with Vision is a large multimodal model (LMM) developed by OpenAI that can analyze images and provide textual responses to questions about them. It incorporates both natural language processing and visual understanding. This guide provides details on the capabilities and limitations of GPT-4 Turbo with Vision.
 
