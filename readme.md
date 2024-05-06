@@ -13,9 +13,13 @@ GPT-4 Turbo with Vision is a large multimodal model (LMM) developed by OpenAI th
 https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/gpt-with-vision
 
 
+## Use Cases 
 
 
 
+|Use Case | Code Description| Notebook |
+| -------- | -------- | -------- |
+| Real Estate   | Data     | [My Jupyter Notebook](https://github.com/anuragsirish/multimodal-ai/blob/main/azure-search-vector-real-estate-1.ipynb)    |
 
 
 
