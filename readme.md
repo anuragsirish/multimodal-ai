@@ -1,3 +1,19 @@
+##Multimodal AI
+
+### What is Multimodal AI?
+Multimodal AI refers to artificial intelligence systems that can understand, interpret, and process information from multiple different modes or types of data. These modes can include text, images, audio, video, and sensor data. The ability to work with such diverse data types allows multimodal AI systems to perform more complex and nuanced tasks than unimodal systems, which are limited to a single type of data.
+
+
+
+
+
+
+
+
+
+
+
+
 ## Prerequisites
 
 To run the Python samples in this folder, you should have:
