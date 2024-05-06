@@ -16,8 +16,8 @@ https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/gpt-with-vis
 ## Use Cases 
 
 
-| Title                   | Description                                                                                                                                                       | Link                                                                                                               |
-| ----------------------------------| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Title                   | Description                                                                                                                 |Code                                      | Link                                                                                                               |
+| ---------------------------------------| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------|------------------------------- |
 | Real Estate Image Search| The real estate use case will show you how to search for different property images using text. Then it will also show to use a property image to search another similar property image. | In this scenario, we will use a custom embedding model provided by Azure AI vision wrapped in a Azure Function App. This function is called by a custom skillset created inside Azure AI search. | [My Jupyter Notebook](https://github.com/anuragsirish/multimodal-ai/blob/main/azure-search-vector-real-estate-1.ipynb) |
 
 
