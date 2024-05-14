@@ -3,19 +3,17 @@
 ### What is Multimodal AI?
 Multimodal AI refers to AI applications that can understand, interpret, and process information from multiple different modes or types of data. These modes can include text, images, audio, video data The ability to work with such diverse data types allows multimodal AI systems to perform more complex and nuanced tasks than unimodal systems, which are limited to a single type of data.
 
-## Recent Multomodal LLMs
+<img src="https://github.com/anuragsirish/multimodal-ai/assets/12818726/c59ea33e-5c3f-495f-92df-10026e576004" width="500" height="300">
+
+## Use Cases 
 
 
+| Title                   | Description                                                                                                                 |Code                                      | Link                                                                                                               |
+| ------------------------------------------------------------| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------|------------------------------- |
+| Real Estate Image Search| The real estate use case will show you how to search for different property images using text. Then it will also show to use a property image to search another similar property image. | In this scenario, we will use a custom embedding model provided by Azure AI vision wrapped in a Azure Function App. This function is called by a custom skillset created inside Azure AI search. | [My Jupyter Notebook](https://github.com/anuragsirish/multimodal-ai/blob/main/azure-search-vector-real-estate-1.ipynb) |
 
 
-
-
-
-
-
-
-
-
+Inspired by Azure AI Search Samples from - https://github.com/Azure/azure-search-vector-samples/tree/main/demo-python
 ## Prerequisites
 
 To run the Python samples in this folder, you should have:
